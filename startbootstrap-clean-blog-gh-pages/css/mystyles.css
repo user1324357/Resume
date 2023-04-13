@@ -1,0 +1,16 @@
+ul{
+    font-size: 20px;
+}
+.post-subtitle{
+    font-weight: 600;
+}
+.post-title{
+    font-size: 30px;
+}
+h4{
+    font-weight: 500;
+    font-style: italic;
+}
+h6{
+    font-weight: 200;
+}
